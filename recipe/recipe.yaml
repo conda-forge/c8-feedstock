@@ -1,5 +1,5 @@
 context:
-  version: "10.1.3"
+  version: "12.0.0"
 
 package:
   name: c8
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/c8/-/c8-${{ version }}.tgz
-  sha256: 10c89c97b636ccd9b35780eba71938748789829d53a3c50da66decc308043105
+  sha256: 77e0dbd7761bef0e52569fc62e387c73f1db08d3edba1c440664ef9d6ccff534
 
 build:
   number: 0
